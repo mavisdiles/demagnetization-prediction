@@ -11,14 +11,14 @@
 ### Train Methodology 
 
 <div align="center">
-<img src="./Image/Train Methodology.png" width="100%" height="100%">
+<img src="./image/Train Methodology.png" width="100%" height="100%">
 <br><br>
 <b>Figure 1.</b> Train Methodology.
 </div>
 
 ### Prediction Result example
 <div align="center">
-<img src="./Image/Result.png" width="60%" height="60%">
+<img src="./image/Result.png" width="60%" height="60%">
 <br><br>
 <b>Figure 2.</b> Prediction Result example.
 </div>
