@@ -10,7 +10,7 @@
 
 ### Train Methodology 
 데이터셋을 가지고 총 1년간의 감자율을 학습 및 테스트하여 모델을 성능을 확인하는 Evaluation 과정과
-Evaluation 기간 이후의 전체  5년간의 장기 예측을 하는 Long Term forecasting 으로 구분하였다
+Evaluation 기간 이후의 전체  5년간의 장기 예측을 하는 Long Term forecasting 으로 구분하였다.
 
 <div align="center">
 <img src="./image/Train Methodology.png" width="100%" height="100%">
@@ -20,7 +20,7 @@ Evaluation 기간 이후의 전체  5년간의 장기 예측을 하는 Long Term
 
 ## Prediction Result example
 <div align="center">
-<img src="./image/Result.png" width="60%" height="60%">
+<img src="./image/Result.png" width="100%" height="100%">
 <br><br>
 <b>Figure 2.</b> Prediction Result example.
 </div>
